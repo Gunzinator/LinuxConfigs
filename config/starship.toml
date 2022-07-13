@@ -1,0 +1,20 @@
+[line_break]
+disabled = true
+
+[character]
+# success_symbol = "[>] (bold green)"
+
+format = """
+[─> ](bold green)
+"""
+[git_status]
+disabled = true
+
+
+[cmd_duration]
+disabled = true
+
+[time]
+disabled = true
+time_format = "%R"
+
